@@ -7,7 +7,7 @@
 
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026.09-4c9f38?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Actively%20Maintained-green?style=flat-square)
-![Stars](https://img.shields.io/github/stars/yourname/yourrepo?style=flat-square&label=Stars)
+![Stars](https://img.shields.io/github/stars/516megajuewu/ai-relay-deals?style=flat-square&label=Stars)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 [🇬🇧 English](README_EN.md) · [🇨🇳 中文](README.md)
