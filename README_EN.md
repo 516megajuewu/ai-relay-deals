@@ -29,36 +29,37 @@ An AI relay station aggregates third-party API services into one unified interfa
 
 ## 🏆 Overall Ranking (by credits × stability × cost-effectiveness)
 
-> ✅ Sorting: Signup credits > Station stability > Pricing ratio (lower = better) > Sign-in / stacked bonuses
+> ✅ Sorting: Model support (Opus first) > Signup credits > Station stability > Pricing ratio > Sign-in / stacked bonuses
 
-### 🥇 S-Tier · Top Picks (large credits + stable + great value)
+### 🥇 S-Tier · Top Picks (Opus supported, best quality)
 
-| Station | Signup Bonus | Highlights | Sign Up |
+| Station | Signup Bonus | Highlights | Visit |
 |:---:|:---:|:---|:---|
-| **Tabitoken** | 💰 **$120** | opus-5 series, reliable, all-green & smooth | [Sign Up](https://tabitoken.com/sign-up?aff=6YyH) |
-| **JustWoker** | 💰 **$100** + $25 sign-in | low ratio, claude opus5 opens periodically | [Sign Up](https://api.justwoker.icu/register?aff=nAs9) |
-| **KKToken** | 🔮 **100M** claude-opus-5 credits | daily sign-in stacking supported | [Sign Up](https://kktoken.cc/sign-up?aff=2V5g) |
+| **Tabitoken** | 💰 **$120** | opus-5 series, reliable, all-green & smooth | [Visit](https://tabitoken.com/sign-up?aff=6YyH) |
+| **JustWoker** | 💰 **$100** + $25 sign-in | low ratio, claude opus5 opens periodically | [Visit](https://api.justwoker.icu/register?aff=nAs9) |
+| **KKToken** | 🔮 **100M** claude-opus-5 credits | daily sign-in stacking supported | [Visit](https://kktoken.cc/sign-up?aff=2V5g) |
+| **Gorouter** | 💰 **$70** | free Claude series, opus-5, lasts long | [Visit](https://gorouter.app/sign-up?aff=x5lk) |
 
 ### 🥈 A-Tier · Great Value
 
-| Station | Signup Bonus | Highlights | Sign Up |
+| Station | Signup Bonus | Highlights | Visit |
 |:---:|:---:|:---|:---|
-| **Gorouter** | 💰 **$70** | free Claude series, opus-5, lasts long | [Sign Up](https://gorouter.app/sign-up?aff=x5lk) |
-| **LobsterAI** | 🔮 **1B+** tokens | latest V4-Flash-Vision-Exp, code `LVE1xZ` = extra credits | [Sign Up](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
-| **YunshuAPI** | 💰 **$200** | new-site promo, gpt-5.6-sol / claude-fabe-5 free | [Sign Up](https://yunshuapi.site/sign-up?aff=i5wQ) |
+| **CheapCodex** | 💰 **Huge subsidy** | subsidy campaign, gpt-5.6-sol series | [Visit](https://api.cheapcodex.online/register?aff=HAH9K5BHBSSX) |
+| **ConduitOff** | 💰 **$500** | TG campaign, mainstream models | [Visit](https://t.me/conduitoff_bot?start=ref_5988624667) |
+| **LobsterAI** | 🔮 **1B+** tokens | latest V4-Flash-Vision-Exp, code `LVE1xZ` = extra credits | [Visit](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
 
-### 🥉 B-Tier · New Sites / Specific Use
+### 🥉 B-Tier · Specific Use
 
-| Station | Signup Bonus | Highlights | Sign Up |
+| Station | Signup Bonus | Highlights | Visit |
 |:---:|:---:|:---|:---|
-| **XXS** | 💰 **$50 + $50 + $30** | new site: register 50 + join group 50 + sign-in 30+ | [Sign Up](https://xxs.l.cd/sign-up?aff=DlII) |
-| **True-SOTA** | 💰 **$20** | gpt-5.6-sol, low ratio, fast | [Sign Up](https://true-sota.com/register?aff=DGHATJWYPAYN) |
+| **True-SOTA** | 💰 **$20** | gpt-5.6-sol, low ratio, fast | [Visit](https://true-sota.com/register?aff=DGHATJWYPAYN) |
 
 ### 🎗️ C-Tier · Entry / Chinese Models
 
-| Station | Signup Bonus | Highlights | Sign Up |
+| Station | Signup Bonus | Highlights | Visit |
 |:---:|:---:|:---|:---|
-| **TokenRhythm** | 🇨🇳 **¥68** Chinese models | credits for domestic Chinese models | [Sign Up](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
+| **TokenRhythm** | 🇨🇳 **¥68** Chinese models | credits for domestic Chinese models | [Visit](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
+| **XXS** | 💰 **$50 + $50 + $30** | new site: register 50 + join group 50 + sign-in 30+ | [Visit](https://xxs.l.cd/sign-up?aff=DlII) |
 
 ---
 
@@ -69,6 +70,7 @@ An AI relay station aggregates third-party API services into one unified interfa
 | Use Claude / opus-5 directly | **Tabitoken** | $120 large credit, reliable, all-green |
 | Maximum cost-effectiveness | **JustWoker** | low ratio + $100 + daily sign-in |
 | Massive long-term tokens | **KKToken / LobsterAI** | 100M ~ 1B+ tokens to start |
+| Huge subsidy campaign | **CheapCodex** | big subsidy, gpt-5.6-sol series |
 | Fast speed test only | **True-SOTA** | small $20 credit, fast |
 | Chinese models | **TokenRhythm** | ¥68 domestic credits |
 
@@ -76,10 +78,12 @@ An AI relay station aggregates third-party API services into one unified interfa
 
 ## 📖 How to Use
 
-1. Click the **Sign Up** link in the table above
+1. Click the **Visit** link in the table above
 2. Complete email/phone registration — bonus credits arrive automatically
 3. Copy the **API Key** from your dashboard
 4. Fill in Base URL & Key in any OpenAI-compatible client (NextChat, ChatBox, one-api, etc.)
+
+> 💡 For **Telegram** campaigns (e.g. ConduitOff), just send `/start` inside the TG bot to claim your credits.
 
 ---
 
@@ -102,14 +106,14 @@ A: Some models (e.g. opus-5) depend on upstream supply; stations open slots peri
 ## 🗓️ Changelog
 
 - **2026.09** — Initial release: 9 relay stations collected & ranked by credit quality
-- Continuously adding new stations, marking dead links, updating credit policies
+- **2026.09** — Added CheapCodex & ConduitOff; removed outdated station; Opus-supported stations moved to top
 
 ---
 
 ## 🤝 Contribute
 
 Welcome to submit via **Issue / PR**:
-- New station deals (with sign-up link & credit screenshot)
+- New station deals (with visit link & credit screenshot)
 - Dead link reports (we'll mark 🔴 dead)
 - Credit policy change notices
 

@@ -29,36 +29,37 @@ AI 中转站（Relay Station）是聚合第三方 API 服务的平台，通过�
 
 ## 🏆 额度质量总榜（按赠送额度 × 稳定性 × 性价比排序）
 
-> ✅ 排序维度：注册赠送额度 > 站点稳定性 > 计费倍率（倍率越低越划算）> 可签到/叠加福利
+> ✅ 排序维度：模型支持（Opus 优先）> 注册赠送额度 > 站点稳定性 > 计费倍率 > 可签到/叠加福利
 
-### 🥇 S 级 · 首选推荐（大额 + 稳定 + 高性价比）
+### 🥇 S 级 · 首选推荐（支持 Opus，质量好）
 
-| 站点 | 注册赠送 | 核心特点 | 注册链接 |
+| 站点 | 注册赠送 | 核心特点 | 访问链接 |
 |:---:|:---:|:---|:---|
-| **Tabitoken** | 💰 **120 美元** | opus-5 系列、耐用、全绿不卡 | [立即注册](https://tabitoken.com/sign-up?aff=6YyH) |
-| **JustWoker** | 💰 **100 美元** + 签到 +25 | 倍率低、claude opus5 系列不定时开放 | [立即注册](https://api.justwoker.icu/register?aff=nAs9) |
-| **KKToken** | 🔮 **1 亿** claude-opus-5 额度 | 支持每日签到叠加 | [立即注册](https://kktoken.cc/sign-up?aff=2V5g) |
+| **Tabitoken** | 💰 **120 美元** | opus-5 系列、耐用、全绿不卡 | [立即访问](https://tabitoken.com/sign-up?aff=6YyH) |
+| **JustWoker** | 💰 **100 美元** + 签到 +25 | 倍率低、claude opus5 系列不定时开放 | [立即访问](https://api.justwoker.icu/register?aff=nAs9) |
+| **KKToken** | 🔮 **1 亿** claude-opus-5 额度 | 支持每日签到叠加 | [立即访问](https://kktoken.cc/sign-up?aff=2V5g) |
+| **Gorouter** | 💰 **70 美元** | 白嫖 Claude 系列、opus-5、够用很久 | [立即访问](https://gorouter.app/sign-up?aff=x5lk) |
 
 ### 🥈 A 级 · 高性价比之选
 
-| 站点 | 注册赠送 | 核心特点 | 注册链接 |
+| 站点 | 注册赠送 | 核心特点 | 访问链接 |
 |:---:|:---:|:---|:---|
-| **Gorouter** | 💰 **70 美元** | 白嫖 Claude 系列、opus-5、够用很久 | [立即注册](https://gorouter.app/sign-up?aff=x5lk) |
-| **LobsterAI** | 🔮 **10 亿+** token | 支持最新 V4-Flash-Vision-Exp，邀请码 `LVE1xZ` 额外送积分 | [立即注册](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
-| **YunshuAPI** | 💰 **200 美元** | 新站福利大、gpt-5.6-sol / claude-fabe-5 免费 | [立即注册](https://yunshuapi.site/sign-up?aff=i5wQ) |
+| **CheapCodex** | 💰 **百亿补贴** | 百亿补贴活动、gpt-5.6-sol 系列 | [立即访问](https://api.cheapcodex.online/register?aff=HAH9K5BHBSSX) |
+| **ConduitOff** | 💰 **500 美元** | TG 活动、主流模型 | [立即访问](https://t.me/conduitoff_bot?start=ref_5988624667) |
+| **LobsterAI** | 🔮 **10 亿+** token | 支持最新 V4-Flash-Vision-Exp，邀请码 `LVE1xZ` 额外送积分 | [立即访问](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
 
-### 🥉 B 级 · 新站/特定场景
+### 🥉 B 级 · 特定场景
 
-| 站点 | 注册赠送 | 核心特点 | 注册链接 |
+| 站点 | 注册赠送 | 核心特点 | 访问链接 |
 |:---:|:---:|:---|:---|
-| **XXS** | 💰 **50 + 50 + 30** 美元 | 新站：注册 50 + 加群 50 + 签到 30+ | [立即注册](https://xxs.l.cd/sign-up?aff=DlII) |
-| **True-SOTA** | 💰 **20 美元** | gpt-5.6-sol、比例低、速度快 | [立即注册](https://true-sota.com/register?aff=DGHATJWYPAYN) |
+| **True-SOTA** | 💰 **20 美元** | gpt-5.6-sol、比例低、速度快 | [立即访问](https://true-sota.com/register?aff=DGHATJWYPAYN) |
 
 ### 🎗️ C 级 · 入门/国产模型
 
-| 站点 | 注册赠送 | 核心特点 | 注册链接 |
+| 站点 | 注册赠送 | 核心特点 | 访问链接 |
 |:---:|:---:|:---|:---|
-| **TokenRhythm** | 🇨🇳 **68 元** 国产模型 | 国产模型额度、适合国产模型需求 | [立即注册](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
+| **TokenRhythm** | 🇨🇳 **68 元** 国产模型 | 国产模型额度、适合国产模型需求 | [立即访问](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
+| **XXS** | 💰 **50 + 50 + 30** 美元 | 新站：注册 50 + 加群 50 + 签到 30+ | [立即访问](https://xxs.l.cd/sign-up?aff=DlII) |
 
 ---
 
@@ -69,6 +70,7 @@ AI 中转站（Relay Station）是聚合第三方 API 服务的平台，通过�
 | 想直接用 Claude / opus-5 | **Tabitoken** | 120 刀大额、耐用、全绿 |
 | 追求极致性价比 | **JustWoker** | 倍率低 + 100 刀 + 每日签到 |
 | 想要海量 token 长期用 | **KKToken / LobsterAI** | 1 亿 ~ 10 亿 token 起步 |
+| 百亿补贴大额活动 | **CheapCodex** | 补贴力度大、gpt-5.6-sol 系列 |
 | 只想要快速测试速度 | **True-SOTA** | 20 刀小额、速度快 |
 | 国产模型需求 | **TokenRhythm** | 68 元国产额度 |
 
@@ -76,10 +78,12 @@ AI 中转站（Relay Station）是聚合第三方 API 服务的平台，通过�
 
 ## 📖 使用流程
 
-1. 点击上方表格中的 **注册链接** 进入站点
+1. 点击上方表格中的 **访问链接** 进入站点
 2. 完成邮箱/手机注册，赠送额度自动到账
 3. 在站点后台复制 **API Key**
 4. 在支持 OpenAI 兼容格式的客户端（如 NextChat、ChatBox、one-api 等）中填入 Base URL 与 Key 即可使用
+
+> 💡 通过 **Telegram** 活动的站点（如 ConduitOff），直接在 TG 内发送 `/start` 即可领取额度。
 
 ---
 
@@ -102,14 +106,14 @@ A：部分模型（如 opus-5）受上游供应影响，站点会不定时开放
 ## 🗓️ 更新日志
 
 - **2026.09** — 上线初始版本，收录 9 个中转站，完成额度质量分级排序
-- 后续将持续收录新站点、标注失效站点、更新额度政策
+- **2026.09** — 新增 CheapCodex、ConduitOff；下架已过时站点；支持 Opus 站点前置
 
 ---
 
 ## 🤝 贡献与反馈
 
 欢迎通过 **Issue / PR** 提交：
-- 新的中转站福利信息（请附注册链接与额度截图）
+- 新的中转站福利信息（请附访问链接与额度截图）
 - 失效链接反馈（我们会标记 🔴 已失效）
 - 额度政策变更提醒
 
