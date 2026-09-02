@@ -42,10 +42,8 @@
 |:---:|:---:|:---|:---|
 | **CheapCodex** | 百亿补贴 | gpt-5.6-sol 系列 | [进入](https://api.cheapcodex.online/register?aff=HAH9K5BHBSSX) |
 | **ConduitOff** | $500 | TG 活动、主流模型 | [进入](https://t.me/conduitoff_bot?start=ref_5988624667) |
-| **LobsterAI** | 10 亿+ token | 邀请码 `LVE1xZ` 额外送积分 | [进入](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
-| **True-SOTA** | $20 | gpt-5.6-sol | [进入](https://true-sota.com/register?aff=DGHATJWYPAYN) |
+| **LobsterAI** | 10 亿+ token | 有道官方产品，[官方开源](https://github.com/netease-youdao/LobsterAI)，社区有[反代](https://github.com/xinxinshuhao-create/lobsterai2api)；邀请码 `LVE1xZ` 额外送积分 | [进入](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
 | **TokenRhythm** | ¥68 | 国产模型 | [进入](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
-| **XXS** | $50 + $50 + $30 | 新站 | [进入](https://xxs.l.cd/sign-up?aff=DlII) |
 
 ---
 

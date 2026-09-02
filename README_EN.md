@@ -42,10 +42,8 @@
 |:---:|:---:|:---|:---|
 | **CheapCodex** | Huge subsidy | gpt-5.6-sol series | [Visit](https://api.cheapcodex.online/register?aff=HAH9K5BHBSSX) |
 | **ConduitOff** | $500 | TG campaign, mainstream models | [Visit](https://t.me/conduitoff_bot?start=ref_5988624667) |
-| **LobsterAI** | 1B+ tokens | code `LVE1xZ` = extra credits | [Visit](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
-| **True-SOTA** | $20 | gpt-5.6-sol | [Visit](https://true-sota.com/register?aff=DGHATJWYPAYN) |
+| **LobsterAI** | 1B+ tokens | Official product by NetEase Youdao, [open-source on GitHub](https://github.com/netease-youdao/LobsterAI), community [reverse proxy](https://github.com/xinxinshuhao-create/lobsterai2api); code `LVE1xZ` = extra credits | [Visit](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
 | **TokenRhythm** | ¥68 | Chinese models | [Visit](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
-| **XXS** | $50 + $50 + $30 | new site | [Visit](https://xxs.l.cd/sign-up?aff=DlII) |
 
 ---
 
