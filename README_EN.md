@@ -42,8 +42,8 @@
 |:---:|:---:|:---|:---|
 | **ConduitOff** | $500 | TG campaign, mainstream models | [Visit](https://t.me/conduitoff_bot?start=ref_5988624667) |
 | **AMD Radeon** | Free | deepseek-v4-flash free | [Visit](https://developer.amd.com.cn/radeon/) |
-| **B.AI** | Free | dsv4-flash / glm-5.3-flash / qwen3.8-flash etc. | [Visit](https://chat.b.ai/chat?invite_code=TZV6VB) |
-| **LobsterAI** | 1B+ tokens | Official product by NetEase Youdao, [open-source on GitHub](https://github.com/netease-youdao/LobsterAI), community [reverse proxy](https://github.com/xinxinshuhao-create/lobsterai2api); code `LVE1xZ` = extra credits | [Visit](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
+| **B.AI** | Free | deepseek-v4-flash / glm-5.3-flash / qwen3.8-flash etc. | [Visit](https://chat.b.ai/chat?invite_code=TZV6VB) |
+| **LobsterAI** | 1B+ tokens | Official product by NetEase Youdao, [open-source on GitHub](https://github.com/netease-youdao/LobsterAI), community [reverse proxy](https://github.com/xinxinshuhao-create/lobsterai2api); code `LVE1xZ` = +300 invite credits | [Visit](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
 | **TokenRhythm** | ¥68 | Chinese models | [Visit](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
 | **CheapCodex** | $50 | gpt-5.6-sol series | [Visit](https://api.cheapcodex.online/register?aff=HAH9K5BHBSSX) |
 
