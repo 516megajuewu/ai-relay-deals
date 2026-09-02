@@ -41,8 +41,8 @@
 | 站点 | 注册赠送 | 备注 | 链接 |
 |:---:|:---:|:---|:---|
 | **ConduitOff** | $500 | TG 活动、主流模型 | [进入](https://t.me/conduitoff_bot?start=ref_5988624667) |
-| **AMD Radeon** | 免费 | deepseek-v4-flash 免费 | [进入](https://developer.amd.com.cn/radeon/) |
-| **B.AI** | 免费 | deepseek-v4-flash / glm-5.3-flash / qwen3.8-flash 等 | [进入](https://chat.b.ai/chat?invite_code=TZV6VB) |
+| **AMD Radeon** | 长期免费 | deepseek-v4-flash 免费 | [进入](https://developer.amd.com.cn/radeon/) |
+| **B.AI** | 限时免费 | deepseek-v4-flash / glm-5.3-flash / qwen3.8-flash 等 | [进入](https://chat.b.ai/chat?invite_code=TZV6VB) |
 | **LobsterAI** | 10 亿+ token | [官方开源](https://github.com/netease-youdao/LobsterAI)，社区有[反代](https://github.com/xinxinshuhao-create/lobsterai2api)；邀请码 `LVE1xZ` 额外送 300 邀请积分 | [进入](https://lobsterai.youdao.com/#/index?keyfrom=invitation) |
 | **TokenRhythm** | ¥68 | 国产模型 | [进入](https://tokenrhythm.studio/i/rf_tr_hJXHMUegxz12AyrSoxSJFcWW) |
 | **CheapCodex** | $50 | gpt-5.6-sol 系列 | [进入](https://api.cheapcodex.online/register?aff=HAH9K5BHBSSX) |
